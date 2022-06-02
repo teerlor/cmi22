@@ -19,7 +19,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 * Estilo/género: juego de moda
 
 **Logotipo** : 
-![Ilustración_sin_título](https://user-images.githubusercontent.com/106731878/171596776-530a8592-a48a-467d-8858-aaaf35cd5144.png)
+![logo](https://user-images.githubusercontent.com/106731878/171596776-530a8592-a48a-467d-8858-aaaf35cd5144.png)
+
+
 En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre del juego, 'Dressin' Sasha'
 
 (insertar imágenes a resolucion de 100px alto)
