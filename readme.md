@@ -43,14 +43,13 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 ### 2.1 Storyboard: 
 Cuando comienzas el juego, se abre una pantalla donde aparece un personaje y te pregunta si quieres ayudar a Sasha Velour a elegir su ropa. Si le das a 'no', te conducirá a una pantalla donde se cierra un telón y te da la opción de reconducirte a la primera pantalla donde el mismo personaje de antes te vuelve a hacer la pregunta. Si le das a 'sí', te llevará a la siguiente pantalla que es el menú. 
 
-En el menú aparece el título y una imagen de la protagonista del juego. También aparecen los botones que te llevan a los juegos ('vestir'), a la galería (donde podremos ver fotos de la protagonista del juego) y los créditos. 
+En el menú aparece el título y una imagen de la protagonista del juego. También aparecen los botones que te llevan a los juegos ('vestir'), a la galería ('galeria'), donde podremos ver fotos de la protagonista del juego y los créditos. 
 
-Dándote a vestir te transportarán a la siguiente pantalla, donde encontramos un nuevo menú pero en este caso de los difernetes minijuegos. A continuación se encunetra una imagen que explica brevemente cada minijuego. 
+Dándole a vestir te transportarán a la siguiente pantalla, donde encontramos un nuevo menú pero en este caso de los difernetes minijuegos. A continuación se encunetra una imagen que explica brevemente cada minijuego. 
 
 Cada minijuego es diferente. En la opción 'vestir' nos aparecerá una pantalla con cuatro perchas que sostienen ropa para probársela a la protagonista y la finalidad de este apartado es ver cual es la ropa que mejor le queda o que más le gusta al espectador. Se tratan de conjuntos reales que la artista ha llevado puestos en distintas ocasiones. En la opción 'quiz' se presentaran una serie de preguntas que se tienen que acertar en su totalidad para poder terminar el cuestionario. Cuando pulsas la respuesta incorrecta aparece una imagen donde pone 'fallaste' y te llevará de nuevo a la misma pregunta hasta que ésta se conteste correctamente. Cuando pulsas la respuesta correcta aparecerá una pantalla donde pone 'acertaste'. En la opción 'pasarela' es necesario resolver un código que te llevará a la pasarela donde la protagonista tiene que coger un trofeo, si se consigue coger este trofeo, has ganado. 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+A lo largo de todo el juego hay una música de fondo que corresponde a una que cantó la protagonista del juego con más compañeras. Cada botón también tiene un sonido diferente. Además, en la mayoría de pantallas puedes encontrar la opción de ir a la pantalla de ajustes donde se puede quitar o modificar el volumen de la música. 
 
 
 
@@ -75,11 +74,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+- https://poki.com/es/g/superhero-look-alike-contest
+Este es tan solo un ejemplo de juego de vestir. Me he inspirado sobre todo en los recuerdos que tenía de la infancia sobre estos juegos, ya que eran mis favoritos.
 
 **Motivación de la propuesta** 
 
@@ -100,10 +96,9 @@ Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Video y galería de fotos
 - Menús y elementos de navegación (botones)
-- etc.
+- Ajustes 
 
 
 
