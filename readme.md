@@ -14,11 +14,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  M Teresa López Rey
 
-**Resumen** : Este proyecto consiste en un modelo clásico de juego de vestir siguiendo la temática 'Drag', busca darle también visibilidad a este mundo que a veces se conoce muy poco. La protagonista se llama Sasha Velour, una conocida Drag Queen que participó en el concurso organizado por Rupaul llamado 'Rupaul Drag Race'. En torno a Sasha Velour gira todo el juego. En el juego podrás conocer diferentes conjuntos reales y como le quedan, descubrir diferentes datos de la artista mediante un quizz y también la ayudarás a elegir el mejor conjunto para asistir a un show. Durante el juego podrás sifrutar de la experiencia de ser su asistenta. 
+**Resumen** : Ser asistente de una de las drags más famosas del mundo nunca había sido tan fácil. Con este divertido y innovador juego de vestir se puede experimentar cómo es eer la asistente personal de Sasha Velour, y eso conlleva probarle miles de conjuntos, saber datos muy imporatntes de ella y saber con que 'look' afrontar una de las citas más importantes en su agenda, La Pasarela. Este proyecto consiste en un modelo clásico de juego de vestir siguiendo la temática 'Drag', busca darle también visibilidad a este mundo que a veces se conoce muy poco. La protagonista se llama Sasha Velour, una conocida Drag Queen que participó en el concurso organizado por Rupaul llamado 'Rupaul Drag Race'. En torno a Sasha Velour gira todo el juego. 
 
-* Estilo/género: juego de moda
+* Estilo/género: Juego de moda
 
-**Logotipo** : 
+**Logotipo** :
+
 ![logo](https://user-images.githubusercontent.com/106731878/171596776-530a8592-a48a-467d-8858-aaaf35cd5144.png)
 
 
@@ -27,7 +28,7 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px tamaño ajustable
-**Probado en:**   Probado en Google Chrome, Microsoft Edge,  / MS Edge... /móviles android )
+**Probado en:**   Probado en Google Chrome y Microsoft Edge
 
 **Tamaño proyecto:** 14MB 
 
@@ -40,7 +41,13 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Cuando comienzas el juego, se abre una pantalla donde aparece un personaje y te pregunta si quieres ayudar a Sasha Velour a elegir su ropa. Si le das a 'no', te conducirá a una pantalla donde se cierra un telón y te da la opción de reconducirte a la primera pantalla donde el mismo personaje de antes te vuelve a hacer la pregunta. Si le das a 'sí', te llevará a la siguiente pantalla que es el menú. 
 
+En el menú aparece el título y una imagen de la protagonista del juego. También aparecen los botones que te llevan a los juegos ('vestir'), a la galería (donde podremos ver fotos de la protagonista del juego) y los créditos. 
+
+Dándote a vestir te transportarán a la siguiente pantalla, donde encontramos un nuevo menú pero en este caso de los difernetes minijuegos. A continuación se encunetra una imagen que explica brevemente cada minijuego. 
+
+Cada minijuego es diferente. En la opción 'vestir' nos aparecerá una pantalla con cuatro perchas que sostienen ropa para probársela a la protagonista y la finalidad de este apartado es ver cual es la ropa que mejor le queda o que más le gusta al espectador. Se tratan de conjuntos reales que la artista ha llevado puestos en distintas ocasiones. En la opción 'quiz' se presentaran una serie de preguntas que se tienen que acertar en su totalidad para poder terminar el cuestionario. Cuando pulsas la respuesta incorrecta aparece una imagen donde pone 'fallaste' y te llevará de nuevo a la misma pregunta hasta que ésta se conteste correctamente. Cuando pulsas la respuesta correcta aparecerá una pantalla donde pone 'acertaste'. En la opción 'pasarela' es necesario resolver un código que te llevará a la pasarela donde la protagonista tiene que coger un trofeo, si se consigue coger este trofeo, has ganado. 
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
@@ -76,13 +83,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy tradicional al que todos hemos jugado alguna vez, esta enfocado desde una temática diferente, que desde mi propia experiencia nunca había visto. Además tiene distintos apartados que no suelen tener los juegos d
+Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy tradicional al que todos hemos jugado alguna vez, esta enfocado de una manera diferente, que desde mi propia experiencia nunca había visto. Además, la temática es inclusiva y normalizadora respecto al colectivo LGBT+. Tiene también distintos apartados que no suelen tener los juegos comunes de vestir, como el quiz y la pasarela.
 
 
 
 **Publico / audiencia**
 
-- Orientado a todos los públicos, generalmente a niñas y niños o adolescentes
+- Orientado a todos los públicos, generalmente a niñas y niños o adolescentes, pero su dificultad y su temática es apta para todas las edades. 
 
 
 
@@ -108,7 +115,7 @@ Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Este proyecto ha sido un enorme reto para mí porque a supuesto mi inicio en el mundo de la creación multimedia interactiva. La creación de este poryecto ha sido el resultado del incremento progresivo sobre mis conocimientos sobre este tema. A medida que iba avanzando en el proceso de creación del mismo he ido mejorando o corrigiendo aspectos que había hecho anteriormente. Desde mi punto de vista, el resultado me ha dejado bastante satisfecha, pienso que el resultado es bueno relativamente a los conocimientos adquiridos, no obstante siemrpre se puede mejorara medida que se van aprendiendo cosas nuevas. 
 
 
 
