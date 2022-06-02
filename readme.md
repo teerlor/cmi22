@@ -57,7 +57,8 @@ A lo largo de todo el juego hay una música de fondo que corresponde a una que c
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
+! [esquema](https://user-images.githubusercontent.com/106731878/171742659-1440f931-bf93-420c-8714-ac4d2a9bb3da.png)
 
 
 
@@ -75,6 +76,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 - https://poki.com/es/g/superhero-look-alike-contest
+
 Este es tan solo un ejemplo de juego de vestir. Me he inspirado sobre todo en los recuerdos que tenía de la infancia sobre estos juegos, ya que eran mis favoritos.
 
 **Motivación de la propuesta** 
@@ -126,14 +128,16 @@ Este proyecto ha sido un enorme reto para mí porque a supuesto mi inicio en el 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
+* Musica:
+- Aja, Alexis Michelle, Peppermint & Sasha Velour - C.L.A.T. (Feat. DJ Mitch Ferrino) (Official video)
+https://youtu.be/r0o0PK7AXFE  
+* Imágenes:  Las imágenes que aparecen son todas dibujadas por mí, inspiradas en la estética del programa y en fotografías del artista
 * Tipografía
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
 
 
 
