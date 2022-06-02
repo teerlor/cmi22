@@ -36,14 +36,7 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 
 **Fecha** : 07/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
