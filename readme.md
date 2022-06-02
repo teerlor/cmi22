@@ -26,8 +26,7 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
+**Resolución:** 800x600px tamaño ajustable
 **Probado en:**   Probado en Google Chrome, Microsoft Edge,  / MS Edge... /móviles android )
 
 **Tamaño proyecto:** 14MB 
