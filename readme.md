@@ -10,27 +10,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Dressin' Sasha
 
-**Web:**   (url github.io)
+**Web:**   teerlo.github.io
 
 **Autor:**  M Teresa López Rey
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto consiste en un modelo clásico de juego de vestir siguiendo la temática 'Drag', busca darle también visibilidad a este mundo que a veces se conoce muy poco. La protagonista se llama Sasha Velour, una conocida Drag Queen que participó en el concurso organizado por Rupaul llamado 'Rupaul Drag Race'. En torno a Sasha Velour gira todo el juego. En el juego podrás conocer diferentes conjuntos reales y como le quedan, descubrir diferentes datos de la artista mediante un quizz y también la ayudarás a elegir el mejor conjunto para asistir a un show. Durante el juego podrás sifrutar de la experiencia de ser su asistenta. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+* Estilo/género: juego de moda
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+![Ilustración_sin_título](https://user-images.githubusercontent.com/106731878/171596776-530a8592-a48a-467d-8858-aaaf35cd5144.png)
+En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre del juego, 'Dressin' Sasha'
 
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Probado en Google Chrome, Microsoft Edge,  / MS Edge... /móviles android )
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 07/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -80,13 +82,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy tradicional al que todos hemos jugado alguna vez, esta enfocado desde una temática diferente, que desde mi propia experiencia nunca había visto. Además tiene distintos apartados que no suelen tener los juegos d
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos, generalmente a niñas y niños o adolescentes
 
 
 
