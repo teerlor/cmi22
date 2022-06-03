@@ -42,12 +42,17 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 
 ### 2.1 Storyboard: 
 Cuando comienzas el juego, se abre una pantalla donde aparece un personaje y te pregunta si quieres ayudar a Sasha Velour a elegir su ropa. Si le das a 'no', te conducirá a una pantalla donde se cierra un telón y te da la opción de reconducirte a la primera pantalla donde el mismo personaje de antes te vuelve a hacer la pregunta. Si le das a 'sí', te llevará a la siguiente pantalla que es el menú. 
+![storyboard menu](https://user-images.githubusercontent.com/106731878/171802115-5ae511c6-81a5-45b3-8f84-6c7c49a6bba8.png)
 
 En el menú aparece el título y una imagen de la protagonista del juego. También aparecen los botones que te llevan a los juegos ('vestir'), a la galería ('galeria'), donde podremos ver fotos de la protagonista del juego y los créditos. 
 
 Dándole a vestir te transportarán a la siguiente pantalla, donde encontramos un nuevo menú pero en este caso de los difernetes minijuegos. A continuación se encunetra una imagen que explica brevemente cada minijuego. 
+![minijuegos](https://user-images.githubusercontent.com/106731878/171801193-3c2c6fee-9d37-4f57-b728-2fa941cc9d39.png)
+
 
 Cada minijuego es diferente. En la opción 'vestir' nos aparecerá una pantalla con cuatro perchas que sostienen ropa para probársela a la protagonista y la finalidad de este apartado es ver cual es la ropa que mejor le queda o que más le gusta al espectador. Se tratan de conjuntos reales que la artista ha llevado puestos en distintas ocasiones. En la opción 'quiz' se presentaran una serie de preguntas que se tienen que acertar en su totalidad para poder terminar el cuestionario. Cuando pulsas la respuesta incorrecta aparece una imagen donde pone 'fallaste' y te llevará de nuevo a la misma pregunta hasta que ésta se conteste correctamente. Cuando pulsas la respuesta correcta aparecerá una pantalla donde pone 'acertaste'. En la opción 'pasarela' es necesario resolver un código que te llevará a la pasarela donde la protagonista tiene que coger un trofeo, si se consigue coger este trofeo, has ganado. 
+
+![mas minijuegos](https://user-images.githubusercontent.com/106731878/171804444-41f5fa86-2289-4de0-8b3f-9f1474868b47.png)
 
 A lo largo de todo el juego hay una música de fondo que corresponde a una que cantó la protagonista del juego con más compañeras. Cada botón también tiene un sonido diferente. Además, en la mayoría de pantallas puedes encontrar la opción de ir a la pantalla de ajustes donde se puede quitar o modificar el volumen de la música. 
 
@@ -58,7 +63,8 @@ A lo largo de todo el juego hay una música de fondo que corresponde a una que c
 
 
 
-! [esquema](https://user-images.githubusercontent.com/106731878/171742659-1440f931-bf93-420c-8714-ac4d2a9bb3da.png)
+![esquema](https://user-images.githubusercontent.com/106731878/171800622-058e885d-c22a-4992-b1d4-16e682ea3c57.png)
+
 
 
 
@@ -132,7 +138,7 @@ Este proyecto ha sido un enorme reto para mí porque a supuesto mi inicio en el 
 - Aja, Alexis Michelle, Peppermint & Sasha Velour - C.L.A.T. (Feat. DJ Mitch Ferrino) (Official video)
 https://youtu.be/r0o0PK7AXFE  
 * Imágenes:  Las imágenes que aparecen son todas dibujadas por mí, inspiradas en la estética del programa y en fotografías del artista
-* Tipografía
+* Tipografía: 
 
 **Herramientas utilizadas**
 
