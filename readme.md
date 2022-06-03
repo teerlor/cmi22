@@ -28,6 +28,7 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px tamaño ajustable
+
 **Probado en:**   Probado en Google Chrome y Microsoft Edge
 
 **Tamaño proyecto:** 14MB 
@@ -82,6 +83,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 - https://poki.com/es/g/superhero-look-alike-contest
+- https://www.sashavelour.com/
 
 Este es tan solo un ejemplo de juego de vestir. Me he inspirado sobre todo en los recuerdos que tenía de la infancia sobre estos juegos, ya que eran mis favoritos.
 
@@ -151,5 +153,7 @@ https://youtu.be/r0o0PK7AXFE
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
+![licencia]([http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png))
+
 
 Mayo 2020
