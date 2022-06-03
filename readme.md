@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  M Teresa López Rey
 
-**Resumen** : Ser asistente de una de las drags más famosas del mundo nunca había sido tan fácil. Con este divertido y innovador juego de vestir se puede experimentar cómo es eer la asistente personal de Sasha Velour, y eso conlleva probarle miles de conjuntos, saber datos muy imporatntes de ella y saber con que 'look' afrontar una de las citas más importantes en su agenda, La Pasarela. Este proyecto consiste en un modelo clásico de juego de vestir siguiendo la temática 'Drag', busca darle también visibilidad a este mundo que a veces se conoce muy poco. La protagonista se llama Sasha Velour, una conocida Drag Queen que participó en el concurso organizado por Rupaul llamado 'Rupaul Drag Race'. En torno a Sasha Velour gira todo el juego. 
+**Resumen** : Ser asistente de una de las drags más famosas del mundo nunca había sido tan fácil. Con este divertido y innovador juego de vestir se puede experimentar cómo es ser la asistente personal de Sasha Velour, y eso conlleva probarle miles de conjuntos, saber datos muy imporatantes de ella y saber con que 'look' afrontar una de las citas más importantes en su agenda, La Pasarela. Este proyecto consiste en un modelo clásico de juego de vestir siguiendo la temática 'Drag', busca darle también visibilidad a este mundo que a veces se conoce muy poco. La protagonista se llama Sasha Velour, una conocida Drag Queen que participó en el concurso organizado por Rupaul llamado 'Rupaul Drag Race'. En torno a Sasha Velour gira todo el juego. 
 
 * Estilo/género: Juego de moda
 
@@ -25,7 +25,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre del juego, 'Dressin' Sasha'
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px tamaño ajustable
 
@@ -35,7 +35,7 @@ En el logotipo aparece una ilustración de la cara de Sasha Velour y y el nombre
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 07/06/2022
+**Fecha** : 03/06/2022
 
 
 
@@ -47,7 +47,7 @@ Cuando comienzas el juego, se abre una pantalla donde aparece un personaje y te 
 
 En el menú aparece el título y una imagen de la protagonista del juego. También aparecen los botones que te llevan a los juegos ('vestir'), a la galería ('galeria'), donde podremos ver fotos de la protagonista del juego y los créditos. 
 
-Dándole a vestir te transportarán a la siguiente pantalla, donde encontramos un nuevo menú pero en este caso de los difernetes minijuegos. A continuación se encunetra una imagen que explica brevemente cada minijuego. 
+Dándole a vestir te transportarán a la siguiente pantalla, donde encontramos un nuevo menú pero en este caso de los difernetes minijuegos. A continuación se encuentra una imagen que explica brevemente cada minijuego. 
 ![minijuegos](https://user-images.githubusercontent.com/106731878/171801193-3c2c6fee-9d37-4f57-b728-2fa941cc9d39.png)
 
 
@@ -103,7 +103,7 @@ Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego, que consta de tres partes (probarle ropa, cuestionario y pasarela)
 - Video y galería de fotos: hay dos videos, uno de una actuación de Sasha Velour y otro informativo.
