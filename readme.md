@@ -127,7 +127,7 @@ Este proyecto ha sido un enorme reto para mí porque a supuesto mi inicio en el 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+
 
 https://www.sashavelour.com/
 https://es.wikipedia.org/wiki/Sasha_Velour
