@@ -105,16 +105,13 @@ Este proyecto es interesante porque a pesar de ser un juego de vestir, juego muy
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video y galería de fotos
+- Juego, que consta de tres partes (probarle ropa, cuestionario y pasarela)
+- Video y galería de fotos: hay dos videos, uno de una actuación de Sasha Velour y otro informativo.
 - Menús y elementos de navegación (botones)
-- Ajustes 
+- Ajustes (donde se controla el sonido)
 
 
 
-### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
 
 
 
@@ -132,7 +129,10 @@ Este proyecto ha sido un enorme reto para mí porque a supuesto mi inicio en el 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://www.sashavelour.com/
+https://es.wikipedia.org/wiki/Sasha_Velour
+https://rupaulsdragrace.fandom.com/es/wiki/Sasha_Velour
+https://es.wikipedia.org/wiki/RuPaul%27s_Drag_Race
 
 **Recursos y materiales audiovisuales:**
 
@@ -150,10 +150,9 @@ https://youtu.be/r0o0PK7AXFE
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
 https://creativecommons.org/licenses/?lang=es
+
 ![licencia](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 
-Mayo 2020
+Junio 2022
