@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Dressin' Sasha
 
-**Web:**   teerlo.github.io
+**Web:**   https://teerlor.github.io/
 
 **Autor:**  M Teresa López Rey
 
