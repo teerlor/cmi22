@@ -153,7 +153,7 @@ https://youtu.be/r0o0PK7AXFE
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
-![licencia]([http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png))
+![licencia](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 
 Mayo 2020
