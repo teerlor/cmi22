@@ -134,16 +134,17 @@ Este proyecto ha sido un enorme reto para mí porque a supuesto mi inicio en el 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:
-- Aja, Alexis Michelle, Peppermint & Sasha Velour - C.L.A.T. (Feat. DJ Mitch Ferrino) (Official video)
+* Musica: Aja, Alexis Michelle, Peppermint & Sasha Velour - C.L.A.T. (Feat. DJ Mitch Ferrino) (Official video)
 https://youtu.be/r0o0PK7AXFE  
 * Imágenes:  Las imágenes que aparecen son todas dibujadas por mí, inspiradas en la estética del programa y en fotografías del artista
-* Tipografía: 
+* Tipografía: Jack Armstrong BB, Impact, Eing 01, DIN Condensed, Kailasa, Eras Bold ITC. Lo que predomina es tipografía hecha por mí.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
 - Procreate
+- Photoshop
+
 
 
 
